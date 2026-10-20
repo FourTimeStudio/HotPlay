@@ -1,7 +1,7 @@
 # HotPlay
 
 <p align="center">
-  <strong>Fast, Lightweight & Cross-Platform Soundboard and Audio Player for Gamers, Streamers, and Content Creators</strong>
+  <strong>Fast, Lightweight & Cross-Platform Soundboard and Audio Player</strong>
 </p>
 
 <p align="center">
