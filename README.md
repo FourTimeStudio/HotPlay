@@ -31,11 +31,9 @@ HotPlay can trigger sound clips or music tracks instantly without interrupting f
 - **Broad Audio & Video Container Support**:
   - **Native audio decoding** via `miniaudio`: `.mp3`, `.wav`, `.ogg`, `.flac`.
   - **Universal media decoding** via seamless `FFmpeg` pipe streaming: `.mp4`, `.mkv`, `.webm`, `.avi`, `.mov`, `.wmv`, `.flv`, `.m4a`, `.aac`, `.opus`, and more.
-  - Drag-and-drop audio or video files directly into the application window.
 
 - **Folder & Sound Organization**:
   - Multi-tab folder management (e.g., *Memes*, *Music*, *Sound FX*, *Ambience*).
-  - Drag-and-drop track reordering within playlists.
   - Inline track renaming (double-click on title).
   - Individual volume adjustments per track.
 
